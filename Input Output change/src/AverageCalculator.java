@@ -18,5 +18,7 @@ public class AverageCalculator
         num3 = (num1 + num2)/2;
 
         System.out.println("The average of the two numbers is : " + num3);
+
+        keyboard.close();
     }
 }
